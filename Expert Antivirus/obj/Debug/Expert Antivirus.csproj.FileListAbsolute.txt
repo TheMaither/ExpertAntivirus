@@ -1,0 +1,15 @@
+C:\Users\kiril\source\repos\Expert Antivirus\Expert Antivirus\bin\Debug\Expert Antivirus.exe.config
+C:\Users\kiril\source\repos\Expert Antivirus\Expert Antivirus\bin\Debug\Expert Antivirus.exe
+C:\Users\kiril\source\repos\Expert Antivirus\Expert Antivirus\bin\Debug\Expert Antivirus.pdb
+C:\Users\kiril\source\repos\Expert Antivirus\Expert Antivirus\obj\Debug\Expert Antivirus.csprojAssemblyReference.cache
+C:\Users\kiril\source\repos\Expert Antivirus\Expert Antivirus\obj\Debug\MainWindow.g.cs
+C:\Users\kiril\source\repos\Expert Antivirus\Expert Antivirus\obj\Debug\App.g.cs
+C:\Users\kiril\source\repos\Expert Antivirus\Expert Antivirus\obj\Debug\Expert Antivirus_MarkupCompile.cache
+C:\Users\kiril\source\repos\Expert Antivirus\Expert Antivirus\obj\Debug\Expert Antivirus_MarkupCompile.lref
+C:\Users\kiril\source\repos\Expert Antivirus\Expert Antivirus\obj\Debug\MainWindow.baml
+C:\Users\kiril\source\repos\Expert Antivirus\Expert Antivirus\obj\Debug\Expert Antivirus.g.resources
+C:\Users\kiril\source\repos\Expert Antivirus\Expert Antivirus\obj\Debug\Expert_Antivirus.Properties.Resources.resources
+C:\Users\kiril\source\repos\Expert Antivirus\Expert Antivirus\obj\Debug\Expert Antivirus.csproj.GenerateResource.cache
+C:\Users\kiril\source\repos\Expert Antivirus\Expert Antivirus\obj\Debug\Expert Antivirus.csproj.CoreCompileInputs.cache
+C:\Users\kiril\source\repos\Expert Antivirus\Expert Antivirus\obj\Debug\Expert Antivirus.exe
+C:\Users\kiril\source\repos\Expert Antivirus\Expert Antivirus\obj\Debug\Expert Antivirus.pdb
